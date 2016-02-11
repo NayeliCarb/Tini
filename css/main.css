@@ -1,0 +1,53 @@
+header{
+	background-color: #F7D358;
+	width: 100%;
+	height: 500px;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: white;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	color: white;
+	float: right;
+	margin-top: 30px;
+	padding: 0;
+}
+button{
+	color: white;
+    background: #FFBF00;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+  	margin-top: 60px;
+    position: absolute;
+}
+.labo{
+	color: white;
+	text-align: center;
+	margin-top: 150px;
+}
+section{
+	background-color: #BDBDBD;
+	width: 100%;
+	height: 500px;
+}
+#cajaPapa{
+	width: 250px;
+	height: 350px;
+	background-color: white;
+	float: right;
+	margin-right:30px;
+	margin-left: 50px;
+
+}
+#cajaHijo{
+	height: 10px;
+	width: 30px;
+	color: purple;
+	position: absolute;
+}
